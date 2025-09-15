@@ -1,1 +1,6 @@
 Hello
+<<<<<<< HEAD
+promo banner
+=======
+login form
+>>>>>>> 329f1ba (f1: add login block)
